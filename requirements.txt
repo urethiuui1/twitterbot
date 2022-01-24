@@ -1,0 +1,8 @@
+pandas
+tweepy==3.10.0
+progress
+numpy
+python-Levenshtein
+scikit-learn==0.24.2
+joblib
+PyQtWebEngine
